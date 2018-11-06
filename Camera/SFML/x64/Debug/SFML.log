@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\william h\camera\sfml\main.cpp(69): warning C4305: '-=': truncation from 'double' to 'float'
+d:\william h\camera\sfml\main.cpp(71): warning C4305: '+=': truncation from 'double' to 'float'
+d:\william h\camera\sfml\main.cpp(73): warning C4305: '-=': truncation from 'double' to 'float'
+d:\william h\camera\sfml\main.cpp(75): warning C4305: '+=': truncation from 'double' to 'float'
+  SFML.vcxproj -> D:\William H\Camera\x64\Debug\SFML.exe

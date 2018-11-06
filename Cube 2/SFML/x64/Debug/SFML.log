@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\william h\cube 2\sfml\main.cpp(23): error C2228: left of '.inverse' must have class/struct/union
+  d:\william h\cube 2\sfml\main.cpp(23): note: type is 'const float [][4]'
+d:\william h\cube 2\sfml\main.cpp(24): error C2228: left of '.multVecMatrix' must have class/struct/union
+  d:\william h\cube 2\sfml\main.cpp(24): note: type is 'float [4][4]'
+d:\william h\cube 2\sfml\main.cpp(38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\william h\cube 2\sfml\main.cpp(39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data

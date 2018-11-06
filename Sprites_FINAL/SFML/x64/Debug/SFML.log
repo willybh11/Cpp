@@ -1,0 +1,18 @@
+﻿  main.cpp
+d:\william h\sprites_final\sfml\main.cpp(107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(128): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(185): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(186): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(190): warning C4305: '*=': truncation from 'double' to 'float'
+d:\william h\sprites_final\sfml\main.cpp(191): warning C4305: '*=': truncation from 'double' to 'float'
+d:\william h\sprites_final\sfml\main.cpp(243): warning C4244: 'initializing': conversion from 'const float' to 'unsigned int', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(244): warning C4244: 'initializing': conversion from 'const float' to 'unsigned int', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(73): warning C4101: 'cooldown': unreferenced local variable
+d:\william h\sprites_final\sfml\main.cpp(284): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(289): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(294): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(295): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(297): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\william h\sprites_final\sfml\main.cpp(305): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SFML.vcxproj -> D:\William H\Sprites_FINAL\x64\Debug\SFML.exe
